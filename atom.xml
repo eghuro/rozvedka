@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Přichází rozvědka | Pirátská strana</title>
+    <subtitle>Novela zákona o vojenském zpravodajství</subtitle>
+    <link href="https://eghuro.github.io/rozvedka/atom.xml" rel="self" type="application/atom+xml" />
+    <link href="https://eghuro.github.io/rozvedka/" rel="alternate" type="text/html" />
+    <updated>2020-03-17T02:22:13</updated>
+    <id>https://eghuro.github.io/rozvedka/atom.xml</id>
+    <entry>
+        <title>Návrh zákona byl schválen vládou.</title>
+        <link href="https://eghuro.github.io/rozvedka/timeline.html#t10" rel="alternate" type="text/html">
+        <published>2020-03-17T02:22:13</published>
+        <updated>2020-03-17T02:22:13</updated>
+        <content type="html" xml:base="https://eghuro.github.io/rozvedka/timeline.html#t10">
+            Návrh zákona byl <a href="https://apps.odok.cz/veklep-detail?pid=ALBSB9BGVY8D" rel="external nofollow noreferrer">schválen vládou</a>. <a href="https://www.pirati.cz/tiskove-zpravy/internet-pod-dohledem-zpravodajcu.html" rel="external">Tisková zpráva.</a>
+        </content>
+        <author>František Kopřiva</author>
+    </entry>
+</feed>

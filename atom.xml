@@ -5,7 +5,7 @@
     <subtitle>Novela zákona o vojenském zpravodajství</subtitle>
     <link href="https://eghuro.github.io/rozvedka/atom.xml" rel="self" type="application/atom+xml" />
     <link href="https://eghuro.github.io/rozvedka/" rel="alternate" type="text/html" />
-    <updated>2020-03-17T02:22:13</updated>
+    <updated>2020-04-15T10:36:51</updated>
     <id>https://eghuro.github.io/rozvedka/atom.xml</id>
     <entry>
         <title>Návrh zákona byl schválen vládou.</title>
@@ -14,6 +14,16 @@
         <updated>2020-03-17T02:22:13</updated>
         <content type="html" xml:base="https://eghuro.github.io/rozvedka/timeline.html#t19">
             Návrh zákona byl <a href="https://apps.odok.cz/veklep-detail?pid=ALBSB9BGVY8D" rel="external nofollow noreferrer">schválen vládou</a>. <a href="https://www.pirati.cz/tiskove-zpravy/internet-pod-dohledem-zpravodajcu.html" rel="external">Tisková zpráva.</a>
+        </content>
+        <author>František Kopřiva</author>
+    </entry>
+    <entry>
+        <title>Návrh zákona byl předložen Poslanecké sněmovně.</title>
+        <link href="https://eghuro.github.io/rozvedka/timeline.html#t20" rel="alternate" type="text/html">
+        <published>2020-04-15T10:36:51</published>
+        <updated>2020-04-15T10:36:51</updated>
+        <content type="html" xml:base="https://eghuro.github.io/rozvedka/timeline.html#t20">
+            Návrh zákona byl předložen Poslanecké sněmovně jako <a href="https://www.psp.cz/sqw/historie.sqw?o=8&T=800" rel="external nofollow noreferrer" target="_blank">Sněmovní tisk 800</a>.
         </content>
         <author>František Kopřiva</author>
     </entry>
